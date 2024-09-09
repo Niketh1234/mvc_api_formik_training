@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pulkit\\source\\repos\\PracticeRestFulApiDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCA476A-26AA-4B70-8CEA-5FF69A6F5D6C}|PracticeRestFulApiDemo.csproj|c:\\users\\pulkit\\source\\repos\\practicerestfulapidemo\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCA476A-26AA-4B70-8CEA-5FF69A6F5D6C}|PracticeRestFulApiDemo.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCA476A-26AA-4B70-8CEA-5FF69A6F5D6C}|PracticeRestFulApiDemo.csproj|c:\\users\\pulkit\\source\\repos\\practicerestfulapidemo\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCA476A-26AA-4B70-8CEA-5FF69A6F5D6C}|PracticeRestFulApiDemo.csproj|solutionrelative:services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCA476A-26AA-4B70-8CEA-5FF69A6F5D6C}|PracticeRestFulApiDemo.csproj|c:\\users\\pulkit\\source\\repos\\practicerestfulapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCA476A-26AA-4B70-8CEA-5FF69A6F5D6C}|PracticeRestFulApiDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCA476A-26AA-4B70-8CEA-5FF69A6F5D6C}|PracticeRestFulApiDemo.csproj|c:\\users\\pulkit\\source\\repos\\practicerestfulapidemo\\controllers\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCA476A-26AA-4B70-8CEA-5FF69A6F5D6C}|PracticeRestFulApiDemo.csproj|solutionrelative:controllers\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCA476A-26AA-4B70-8CEA-5FF69A6F5D6C}|PracticeRestFulApiDemo.csproj|c:\\users\\pulkit\\source\\repos\\practicerestfulapidemo\\models\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCA476A-26AA-4B70-8CEA-5FF69A6F5D6C}|PracticeRestFulApiDemo.csproj|solutionrelative:models\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\pulkit\\source\\repos\\PracticeRestFulApiDemo\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\pulkit\\source\\repos\\PracticeRestFulApiDemo\\Services\\BookingService.cs",
+              "RelativeToolTip": "Services\\BookingService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:17:50.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingContext.cs",
+              "DocumentMoniker": "C:\\Users\\pulkit\\source\\repos\\PracticeRestFulApiDemo\\Controllers\\BookingContext.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingContext.cs",
+              "ToolTip": "C:\\Users\\pulkit\\source\\repos\\PracticeRestFulApiDemo\\Controllers\\BookingContext.cs",
+              "RelativeToolTip": "Controllers\\BookingContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:12:24.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cs",
+              "DocumentMoniker": "C:\\Users\\pulkit\\source\\repos\\PracticeRestFulApiDemo\\Models\\Details.cs",
+              "RelativeDocumentMoniker": "Models\\Details.cs",
+              "ToolTip": "C:\\Users\\pulkit\\source\\repos\\PracticeRestFulApiDemo\\Models\\Details.cs",
+              "RelativeToolTip": "Models\\Details.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:07:12.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pulkit\\source\\repos\\PracticeRestFulApiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pulkit\\source\\repos\\PracticeRestFulApiDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:00:43.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\pulkit\\source\\repos\\PracticeRestFulApiDemo\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\pulkit\\source\\repos\\PracticeRestFulApiDemo\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:02:05.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

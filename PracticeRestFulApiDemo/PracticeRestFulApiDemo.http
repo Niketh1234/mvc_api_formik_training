@@ -1,0 +1,6 @@
+@PracticeRestFulApiDemo_HostAddress = http://localhost:5278
+
+GET {{PracticeRestFulApiDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
